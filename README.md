@@ -22,8 +22,7 @@ I am a **Senior Software Engineer and Cloud Architect** with over 6 years of exp
 
 ### 📈 GitHub Stats
 
-![Agustín's GitHub stats](https://github-readme-stats.vercel.app/api?username=agustin-lipchak&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agustin-lipchak&layout=compact&theme=dark&hide_border=true)
+![Agustín's GitHub Stats](./profile/stats.svg)
 
 ---
 
