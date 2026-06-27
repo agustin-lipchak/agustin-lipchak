@@ -16,12 +16,12 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=agustin-lipchak&show_icons=true&count_private=true
+          options: username=agustin-lipchak&show_icons=true&count_private=true&theme=dark&hide_border=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.MYSITE_PAT }}
 
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "docs: update automated GitHub stats card"
+          commit_message: "docs: update automated GitHub stats card with dark theme and private stats"
           file_pattern: "profile/*.svg"
