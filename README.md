@@ -20,12 +20,6 @@ I am a **Senior Software Engineer and Cloud Architect** with over 6 years of exp
 
 ---
 
-### 📈 GitHub Stats
-
-![Agustín's GitHub Stats](./profile/stats.svg)
-
----
-
 ### 📨 Connect with me
 - **LinkedIn:** [linkedin.com/in/agustin-lipchak](https://linkedin.com/in/agustin-lipchak)
 - **Website:** [faroitsolutions.com](https://www.faroitsolutions.com/)
